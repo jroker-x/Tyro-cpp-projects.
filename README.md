@@ -7,6 +7,8 @@ Features:
 - Inverted index
 - Case-insensitive search
 - Multi-word AND queries
+- Word frequency based search
+- Top N words of a .txt 
 
 Concepts practiced:
 - STL containers
