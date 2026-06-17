@@ -1,19 +1,29 @@
 # C++ Search Engine
 
-A simple search engine built in modern C++.
+A simple search engine built in modern C++ using an inverted index.
 
-Features:
+## Features
+
 - Recursive text file loading
 - Inverted index
 - Case-insensitive search
 - Multi-word AND queries
-- Word frequency based search
-- Top N words of a .txt 
+- Positional inverted index
+- Phrase search
+- Word frequency statistics
+- Top N most frequent words
+- Fast lookups using hash-based containers
 
-Concepts practiced:
+## Concepts Practiced
+
 - STL containers
 - File I/O
-- Hash maps
-- Hash sets
+- std::filesystem
+- std::unordered_map
+- std::unordered_set
+- Nested data structures
+- Inverted indexing
+- Positional indexing
+- Search algorithms
 - Move semantics
 - Const correctness
