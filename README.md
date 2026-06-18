@@ -1,4 +1,4 @@
-# C++ Search Engine
+# 1. C++ Search Engine
 
 A simple search engine built in modern C++ using an inverted index.
 
@@ -27,3 +27,27 @@ A simple search engine built in modern C++ using an inverted index.
 - Search algorithms
 - Move semantics
 - Const correctness
+
+# 2. Custom HashMap
+
+A simple hash map implementation built from scratch in C++.
+
+## Features
+
+- Template-based design
+- Separate chaining collision handling
+- Custom hash function
+- insert()
+- find()
+- contains()
+- operator[]
+
+## Concepts Practiced
+
+- Templates
+- Hash functions
+- Buckets
+- Collision handling
+- References
+- Pointers
+- STL containers
